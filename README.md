@@ -20,10 +20,10 @@
 - 📞 [Phone](tel:+86 19539489419)
 - 📍 [Location](https://www.google.com/maps/place/ShenZhen,+China)
 
-
+<!--
 ## 📈 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XH1025&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XH1025&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--## 📅 Recent Activity
+-## 📅 Recent Activity
 <!--RECENTLY-->
