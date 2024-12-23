@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🌟 XH's GitHub Profile
 
+## 🚀 About Me
+- 👨‍💻 I'm a [Your Role] with a passion for [Your Interests]
+- 🌐 I believe in [Your Philosophy/Values]
+- 🎓 I'm currently studying [Your Field of Study] at [Your University/Institute]
 
-**XH1025/XH1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- 💻 [Skill 1] (e.g., Web Development)
+- 📈 [Skill 2] (e.g., Data Analysis)
+- 🎨 [Skill 3] (e.g., UI/UX Design)
 
-Here are some ideas to get you started:
+## 🔗 Links
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 🐦 [Twitter](https://twitter.com/yourusername)
+- 📧 [Email](mailto:youremail@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📚 Projects
+- 🌐 [Project 1](https://github.com/yourusername/project1)
+- 📊 [Project 2](https://github.com/yourusername/project2)
 
+## 💬 Contact
+- 💌 Email: dbzxiehui@gmail.com
+- 📞 [Phone](tel:+86 19539489419)
+
+---
+
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
