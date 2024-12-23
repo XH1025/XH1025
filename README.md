@@ -9,9 +9,9 @@
 - 💻 **Languages:** C, C++ ,Python
 - 🛠 **Tools:** Git, SVN, Keil, VS
 
-## 📚 Projects
+<!--## 📚 Projects
 - 🌐 [Project 1](https://github.com/yourusername/project1) - A brief description of Project 1.
-- 📊 [Project 2](https://github.com/yourusername/project2) - A brief description of Project 2.
+- 📊 [Project 2](https://github.com/yourusername/project2) - A brief description of Project 2.-->
 
 ## 💬 Contact
 - 💌 Email: dbzxiehui@gmail.com
