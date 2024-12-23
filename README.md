@@ -7,7 +7,8 @@
 
 ## 🛠️ Skills
 
-- 💻 **Languages:** <a href="https://github.com/XH1025?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-00599C%3F"></a> <a href="https://github.com/XH1025?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a> <a href="https://github.com/XH1025?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+- 💻 **Languages:** <a href="https://github.com/XH1025?tab=repositories&language=c" target="_blank"><img alt="C" src="[https://img.shields.io/badge/-C-00599C%3F](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white
+)"></a> <a href="https://github.com/XH1025?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a> <a href="https://github.com/XH1025?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 - 🛠 **Tools:** Git, SVN, Keil, VS
 
 <!--## 📚 Projects
