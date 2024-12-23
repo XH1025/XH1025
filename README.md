@@ -6,7 +6,7 @@
 - 🌱 I'm learning Linux and RTOS
 
 ## 🛠️ Skills
-- 💻 **Languages:** C, C++ ,Python
+- 💻 **Languages:** C, C++, Python
 - 🛠 **Tools:** Git, SVN, Keil, VS
 
 <!--## 📚 Projects
